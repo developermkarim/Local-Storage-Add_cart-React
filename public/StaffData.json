@@ -1,0 +1,233 @@
+[
+    {
+      "id": "6237f0b874b9dc9076bdc9dc",
+      "age": 32,
+      "name": "Park Joyner",
+      "gender": "male",
+      "email": "parkjoyner@conferia.com",
+      "phone": "+1 (862) 524-3801",
+      "tags": [
+        "proident",
+        "aliquip",
+        "cillum",
+        "ex",
+        "exercitation",
+        "nostrud",
+        "cillum"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Watts Barnes"
+        },
+        {
+          "id": 1,
+          "name": "Gibbs Roberson"
+        },
+        {
+          "id": 2,
+          "name": "Ramsey Zimmerman"
+        }
+      ],
+      "greeting": "Hello, Park Joyner! You have 7 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "6237f0b82ebbccc12a039f9d",
+      "age": 40,
+      "name": "Maryann Burnett",
+      "gender": "female",
+      "email": "maryannburnett@conferia.com",
+      "phone": "+1 (873) 437-3532",
+      "tags": [
+        "aliqua",
+        "dolor",
+        "occaecat",
+        "do",
+        "non",
+        "nostrud",
+        "tempor"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Laurie Hawkins"
+        },
+        {
+          "id": 1,
+          "name": "Puckett Riley"
+        },
+        {
+          "id": 2,
+          "name": "Lilia Weeks"
+        }
+      ],
+      "greeting": "Hello, Maryann Burnett! You have 8 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "6237f0b85129e51133711f3a",
+      "age": 26,
+      "name": "Hurst Cummings",
+      "gender": "male",
+      "email": "hurstcummings@conferia.com",
+      "phone": "+1 (980) 537-2482",
+      "tags": [
+        "do",
+        "dolore",
+        "magna",
+        "ex",
+        "aute",
+        "ullamco",
+        "eu"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Avila Sanford"
+        },
+        {
+          "id": 1,
+          "name": "Nona Ellis"
+        },
+        {
+          "id": 2,
+          "name": "Daniel Mitchell"
+        }
+      ],
+      "greeting": "Hello, Hurst Cummings! You have 4 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "6237f0b8f07a841183ffdacc",
+      "age": 26,
+      "name": "Miles Foreman",
+      "gender": "male",
+      "email": "milesforeman@conferia.com",
+      "phone": "+1 (846) 467-2169",
+      "tags": [
+        "sit",
+        "mollit",
+        "sint",
+        "adipisicing",
+        "Lorem",
+        "amet",
+        "sit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Angelia Ramirez"
+        },
+        {
+          "id": 1,
+          "name": "Donovan Brady"
+        },
+        {
+          "id": 2,
+          "name": "Dickerson Caldwell"
+        }
+      ],
+      "greeting": "Hello, Miles Foreman! You have 8 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": "6237f0b8dc80b1289c1dc11f",
+      "age": 27,
+      "name": "Leticia Dunn",
+      "gender": "female",
+      "email": "leticiadunn@conferia.com",
+      "phone": "+1 (804) 466-2486",
+      "tags": [
+        "qui",
+        "Lorem",
+        "aliqua",
+        "tempor",
+        "ipsum",
+        "id",
+        "do"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Barker Craig"
+        },
+        {
+          "id": 1,
+          "name": "Arline Hahn"
+        },
+        {
+          "id": 2,
+          "name": "Kristie David"
+        }
+      ],
+      "greeting": "Hello, Leticia Dunn! You have 4 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "6237f0b82c12d9cf022a0ef0",
+      "age": 32,
+      "name": "Erin Hunt",
+      "gender": "female",
+      "email": "erinhunt@conferia.com",
+      "phone": "+1 (942) 505-2556",
+      "tags": [
+        "duis",
+        "voluptate",
+        "cupidatat",
+        "ad",
+        "deserunt",
+        "irure",
+        "ullamco"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Carney Clemons"
+        },
+        {
+          "id": 1,
+          "name": "Maxwell Hines"
+        },
+        {
+          "id": 2,
+          "name": "Barrera Mueller"
+        }
+      ],
+      "greeting": "Hello, Erin Hunt! You have 6 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "6237f0b805d62e2e592a8051",
+      "age": 21,
+      "name": "Chambers Whitehead",
+      "gender": "male",
+      "email": "chamberswhitehead@conferia.com",
+      "phone": "+1 (807) 409-3475",
+      "tags": [
+        "eiusmod",
+        "sint",
+        "ea",
+        "sunt",
+        "aliquip",
+        "occaecat",
+        "dolor"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Shana Shelton"
+        },
+        {
+          "id": 1,
+          "name": "Mona Blanchard"
+        },
+        {
+          "id": 2,
+          "name": "Burns Richard"
+        }
+      ],
+      "greeting": "Hello, Chambers Whitehead! You have 8 unread messages.",
+      "favoriteFruit": "banana"
+    }
+  ]
